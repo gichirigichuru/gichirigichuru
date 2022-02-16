@@ -42,9 +42,7 @@ My passion for software lies with transforming ideas into Applications with eleg
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-#### Software Developer
-![Software Developer](https://pbs.twimg.com/media/FJaQrB8XEAc-npc?format=jpg&name=large)
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></co
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gichirigichuru&show_icons=true&theme=slateorange" alt="abhisheknaiidu" />
 <br>
