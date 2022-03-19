@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="./assets/code.gif" width="375" height="240" />
 
 
-I am a Mobile (Android), Cross-Platform(Flutter) and Javascript Developer from Nairobi Kenya 🇰🇪, looking forward to build tools 🛠️ that will help out in the world 🌍.
+I am a Software Developer(Full-stack) from Nairobi Kenya 🇰🇪, looking forward to build tools 🛠️ that will help out in the world 🌍.
 
 <br>
 My passion for software lies with transforming ideas into Applications with elegant interfaces. I take great care in the experience, architecture, and code quality 🖥️ of the things I build.<br>
